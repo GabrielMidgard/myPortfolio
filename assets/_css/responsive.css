@@ -1,0 +1,13 @@
+/* For desktop: */
+@media only screen and (min-width: 768px) {
+    
+
+}
+
+/* For mobile phones: */
+@media only screen and (max-width: 768px) {
+	#demo-canvas{
+		width: 100%;
+    	height: 100%;
+	}
+}
